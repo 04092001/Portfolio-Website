@@ -82,22 +82,9 @@ body {
   top: 300px;
 }
 
-.about-me-text {
-}
-
 ul.about-me-list {
   list-style-type: none;
   margin-left: 0;
   padding-left: 1em;
   text-indent: -1em;
-}
-
-@media (max-width: 480px) {
-  .homepage {
-  }
-}
-
-@media (max-width: 768px) {
-  .name {
-  }
 }
