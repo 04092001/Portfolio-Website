@@ -1,0 +1,103 @@
+body {
+  background-color: #353533;
+  height: 2000px;
+}
+
+.body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 70px;
+  width: 60%;
+  margin: auto;
+  margin-top: 140px;
+}
+
+.body-title {
+  font-size: 35px;
+  font-weight: 900;
+  color: #eeeeee;
+  position: absolute;
+  right: 0;
+}
+
+.links {
+  display: none;
+  font-size: 40px;
+  margin: 0;
+}
+
+.intro-text {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.intro-text1 {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.font-color1 {
+  color: #8893af;
+}
+
+.font-color2 {
+  color: #f09a87;
+}
+
+.name {
+  font-size: 80px;
+  font-weight: 600;
+  letter-spacing: 3px;
+  padding: 0;
+  margin: 0;
+}
+
+.name-color {
+  color: #ccd7f5;
+}
+
+.fa {
+  text-align: center;
+  text-decoration: none;
+  width: 80px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  color: #ccd7f5;
+}
+
+.fa-linkedin {
+  color: #ccd7f5;
+}
+
+.fa-github {
+  color: #ccd7f5;
+}
+
+.about-me {
+  position: relative;
+  top: 300px;
+}
+
+.about-me-text {
+}
+
+ul.about-me-list {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+@media (max-width: 480px) {
+  .homepage {
+  }
+}
+
+@media (max-width: 768px) {
+  .name {
+  }
+}
